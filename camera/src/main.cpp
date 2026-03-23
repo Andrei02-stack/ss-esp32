@@ -11,8 +11,8 @@
 // ===========================
 // Configuration
 // ===========================
-const char* ssid     = "Pacanea in Corsa";       // TODO: Modificați cu SSID-ul rețelei voastre
-const char* password = "adiminune2k25";     // TODO: Modificați cu parola rețelei voastre
+const char* ssid     = "ESP32-Andrei";       // TODO: Modificați cu SSID-ul rețelei voastre
+const char* password = "parola";     // TODO: Modificați cu parola rețelei voastre
 const char* mqtt_server = "10.19.195.60"; // TODO: Modificați cu IP-ul calculatorului (ip addr / ipconfig)
 const int mqtt_port = 1883;
  
